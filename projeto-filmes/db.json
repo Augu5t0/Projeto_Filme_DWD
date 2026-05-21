@@ -1,0 +1,29 @@
+{
+  "filmes": [
+    {
+      "id": "1",
+      "titulo": "Inception",
+      "genero": "Ficção Científica",
+      "ano": "2010",
+      "tipo": "Filme",
+      "status": "assistido"
+    },
+    {
+      "id": "2",
+      "titulo": "Breaking Bad",
+      "genero": "Drama",
+      "ano": "2008",
+      "tipo": "Série",
+      "status": "assistido"
+    },
+    {
+      "titulo": "Filhos da Anarquia",
+      "genero": "Ação",
+      "ano": "2008",
+      "tipo": "Série",
+      "status": "assistir",
+      "id": "pFvDcTITlb0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -202,6 +202,11 @@ Toda operação é feita via **Fetch API**, que envia requisições HTTP para o 
 ## 👥 Resumo rápido para rodar (versão curta)
 
 ```bash
+# Pré-configurações
+
+npm config set proxy http://proxy.spo.ifsp.edu.br:3128/
+npm config set https-proxy http://proxy.spo.ifsp.edu.br:3128/
+
 # 1. Instalar dependências (só na primeira vez)
 npm install
 
